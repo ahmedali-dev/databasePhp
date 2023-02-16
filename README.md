@@ -2,6 +2,16 @@
 
 ## how to use
 
+```php
+
+//open config file and setup database
+define("host", "localhost"); //host
+define("dbname", "test"); // database name
+define("username", "root"); // database user(root)
+define("password", ""); // database password default empty
+
+```
+
 ### method one
 
 ```php
